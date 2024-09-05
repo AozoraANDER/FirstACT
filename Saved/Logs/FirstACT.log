@@ -8855,3 +8855,7 @@ Script Stack (0 frames) :
 [2024.09.05-03.44.49:908][823]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Pawn/GhostSamurai_DefenseL_Walk_FR_Inplace.GhostSamurai_DefenseL_Walk_FR_Inplace
 [2024.09.05-03.44.49:908][823]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Pawn/GhostSamurai_DefenseL_Walk_L_Inplace.GhostSamurai_DefenseL_Walk_L_Inplace
 [2024.09.05-03.44.49:908][823]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Pawn/GhostSamurai_DefenseL_Walk_R_Inplace.GhostSamurai_DefenseL_Walk_R_Inplace
+[2024.09.05-03.55.23:625][430]LogSlate: Window 'View Changes' being destroyed
+[2024.09.05-03.55.23:633][430]LogSlate: Window 'View Changes' being destroyed
+[2024.09.05-03.55.31:586][244]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.09.05-03.55.46:152][550]LogSlate: Window 'Revision Control Login' being destroyed
